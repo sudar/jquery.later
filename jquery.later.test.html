@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Testing jquery.later Plugin</title>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+        <script type="text/javascript" src ="jquery.later.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $.later(1000, this, function () {
+                    $('#results').append('<p>Works! Function called.</p>')
+                }, {}, true);
+            });
+        </script>
+    </head>
+    <body>
+        <div id="results"></div>
+    </body>
+</html>
