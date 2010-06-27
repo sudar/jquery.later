@@ -4,7 +4,7 @@ jQuery.later is a Plugin for jQuery which provides a wrapper for setTimeout/setI
 
 ## Example and Usage
 
-Check out the jquery.later.test.html to find out how to use the Plugin and also at the Plugin's home page [1]
+Check out the jquery.later.test.html to find out how to use the Plugin and also at the [Plugin's home page] [1]
 
 ## Copyright & License
 
