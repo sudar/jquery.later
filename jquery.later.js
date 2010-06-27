@@ -1,5 +1,10 @@
 /**
+ * jQuery Later. Plugin for jQuery
  * Provides a setTimeout/setInterval wrapper
+ *
+ * Copyright 2010, Sudar Muthu (http://sudarmuthu.com)
+ * Released under MIT
+ * 
  */
 (function($) {
     /**
